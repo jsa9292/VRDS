@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{38C08775-697D-B938-B1F4-8FA48162794A}</ProjectGuid>
+    <ProjectGuid>{E0FC5665-84E9-9601-2ADA-C416A420D75E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -56,8 +56,6 @@
      <Compile Include="Assets\Cars\TurnTheGameOn\IK Driver\Scripts\Editor\Editor_IKD_IKDriver.cs" />
      <Compile Include="Assets\Cars\TurnTheGameOn\IK Driver\Scripts\Editor\Editor_IKD_VehicleController.cs" />
      <Compile Include="Assets\Cars\TurnTheGameOn\IK Driver\Scripts\ScriptableObject\Editor\IKD_MakeScriptableObject.cs" />
-     <Compile Include="Assets\EasyRoads3D\Editor\ERAPITutorial.cs" />
-     <Compile Include="Assets\EasyRoads3D\Editor\ERTutorialEditor.cs" />
      <Compile Include="Assets\Editor\ReplaceWithPrefab.cs" />
      <Compile Include="Assets\Enviro - Sky and Weather\Core\Scripts\3rd Party Integrations\FogVolume3 Integration\Editor\EnviroFogVolumeEditor.cs" />
      <Compile Include="Assets\Enviro - Sky and Weather\Core\Scripts\3rd Party Integrations\Pegasus Integration\Editor\TriggerControlEnviroEditor.cs" />
@@ -72,63 +70,60 @@
      <Compile Include="Assets\Enviro - Sky and Weather\Enviro Standard\Scripts\Editor\EnviroAddDefineSymbolsHD.cs" />
      <Compile Include="Assets\Enviro - Sky and Weather\Enviro Standard\Scripts\Editor\EnviroSkyEditor.cs" />
      <Compile Include="Assets\Enviro - Sky and Weather\Enviro Standard\Scripts\Editor\EnviroVolumeLightEditor.cs" />
-     <Compile Include="Assets\Quantum Theory\UCP\Editor\QT_AlignObjects.cs" />
-     <Compile Include="Assets\Quantum Theory\UCP\Editor\QT_CombineMeshes.cs" />
-     <Compile Include="Assets\Quantum Theory\UCP\Editor\QT_TrafficLightControllerInspector.cs" />
      <Compile Include="Assets\Simple Mesh Combine\Scripts C\Editor\SimpleMeshCombineEditor.cs" />
      <Compile Include="Assets\SimplePedestrianSystem\Editor\WaypointManager.cs" />
      <Compile Include="Assets\SuburbNeighborhoodHousePack\Scripts\Editor\AutoSnap.cs" />
      <Compile Include="Assets\SuburbNeighborhoodHousePack\Scripts\Editor\ObjExporter.cs" />
  <Reference Include="Unity.RenderPipelines.Core.Editor">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.Core.Runtime">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VisualEffectGraph.Runtime">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Unity.VisualEffectGraph.Runtime.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Unity.VisualEffectGraph.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.EditorCoroutines.Editor">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Postprocessing.Editor">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Mathematics">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Postprocessing.Runtime">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Autodesk.Fbx">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Autodesk.Fbx.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Autodesk.Fbx.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VisualEffectGraph.Editor">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Unity.VisualEffectGraph.Editor.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Unity.VisualEffectGraph.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.ProBuilder.AddOns.Editor">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.ShaderGraph.Editor">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Mathematics.Editor">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Formats.Fbx.Runtime">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Unity.Formats.Fbx.Runtime.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Unity.Formats.Fbx.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.8f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -360,24 +355,6 @@
  </Reference>
  <Reference Include="UnityEditor.WindowsStandalone.Extensions">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.8f1/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
- </Reference>
- <Reference Include="EasyRoads3Dv3Editor">
- <HintPath>E:/Suburb2018/Assets/EasyRoads3D/Editor/EasyRoads3Dv3Editor.dll</HintPath>
- </Reference>
- <Reference Include="DelaunayER">
- <HintPath>E:/Suburb2018/Assets/EasyRoads3D/lib/DelaunayER.dll</HintPath>
- </Reference>
- <Reference Include="EasyRoads3Dv3">
- <HintPath>E:/Suburb2018/Assets/EasyRoads3D/lib/EasyRoads3Dv3.dll</HintPath>
- </Reference>
- <Reference Include="RSG.Promise">
- <HintPath>E:/Suburb2018/Assets/Rokoko/MotionLibrary/Plugins/RSG.Promise.dll</HintPath>
- </Reference>
- <Reference Include="Rollbar">
- <HintPath>E:/Suburb2018/Assets/Rokoko/MotionLibrary/Plugins/Rollbar/Rollbar.dll</HintPath>
- </Reference>
- <Reference Include="SharpRaven">
- <HintPath>E:/Suburb2018/Assets/Rokoko/MotionLibrary/Plugins/Sentry/SharpRaven.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -736,11 +713,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{523C2ABA-854C-E15A-81CB-19C40E1D9C39}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+      <Project>{E1C11F49-E6AE-0847-1B7C-64510A9C4CAB}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{6F02DAC4-1918-5565-3051-C32D9DF509B0}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{11B114E3-2EDB-DA26-41E6-ECCA14B8E19A}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-CSharp-Editor-firstpass.csproj">
-      <Project>{A1436270-5DE7-5126-CCBC-65EC662A1232}</Project>      <Name>Assembly-CSharp-Editor-firstpass</Name>    </ProjectReference>
+      <Project>{22C5771E-58C7-C505-5C98-0808FB8E352F}</Project>      <Name>Assembly-CSharp-Editor-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

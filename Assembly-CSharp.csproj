@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{6F02DAC4-1918-5565-3051-C32D9DF509B0}</ProjectGuid>
+    <ProjectGuid>{11B114E3-2EDB-DA26-41E6-ECCA14B8E19A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -116,9 +116,6 @@
      <Compile Include="Assets\DataSave.cs" />
      <Compile Include="Assets\EasyRoads3D Assets\Water\Scripts\UVScroller_water.cs" />
      <Compile Include="Assets\EasyRoads3D scenes\Standard Assets\Environment\Water (Basic)\Scripts\WaterBasic.cs" />
-     <Compile Include="Assets\EasyRoads3D\lib\ERTutorial.cs" />
-     <Compile Include="Assets\EasyRoads3D\Scripts\ERVegetationStudio.cs" />
-     <Compile Include="Assets\EasyRoads3D\Scripts\runtimeScript.cs" />
      <Compile Include="Assets\Enviro - Sky and Weather\Core\Scripts\3rd Party Integrations\AQUAS Integration\EnviroAquasIntegration.cs" />
      <Compile Include="Assets\Enviro - Sky and Weather\Core\Scripts\3rd Party Integrations\CTS Integration\EnviroCTSIntegration.cs" />
      <Compile Include="Assets\Enviro - Sky and Weather\Core\Scripts\3rd Party Integrations\FogVolume3 Integration\EnviroFogVolumeIntegration.cs" />
@@ -169,19 +166,9 @@
      <Compile Include="Assets\Enviro - Sky and Weather\Samples\Scripts\SampleHUDFPS.cs" />
      <Compile Include="Assets\FollowData.cs" />
      <Compile Include="Assets\forwardSensor.cs" />
-     <Compile Include="Assets\Logitech SDK\LogitechGSDK.cs" />
-     <Compile Include="Assets\Logitech SDK\Script Sample\LogitechArxControl.cs" />
-     <Compile Include="Assets\Logitech SDK\Script Sample\LogitechGKey.cs" />
-     <Compile Include="Assets\Logitech SDK\Script Sample\LogitechLCD.cs" />
-     <Compile Include="Assets\Logitech SDK\Script Sample\LogitechLed.cs" />
-     <Compile Include="Assets\Logitech SDK\Script Sample\LogitechSteeringWheel.cs" />
      <Compile Include="Assets\MirrorCamera.cs" />
      <Compile Include="Assets\NavMeshCar.cs" />
      <Compile Include="Assets\PlayerController.cs" />
-     <Compile Include="Assets\Quantum Theory\UCP\Scripts\QT_DistanceDropout.cs" />
-     <Compile Include="Assets\Quantum Theory\UCP\Scripts\QT_TrafficLight.cs" />
-     <Compile Include="Assets\Quantum Theory\UCP\Scripts\QT_TrafficLightController.cs" />
-     <Compile Include="Assets\Quantum Theory\UCP\Scripts\Utility Scripts\QT_MeshCombineUtility.cs" />
      <Compile Include="Assets\Replace.cs" />
      <Compile Include="Assets\sensorArrayCar.cs" />
      <Compile Include="Assets\Simple Mesh Combine\Scripts C\Examples\RunTimeCombineAndRelease.cs" />
@@ -214,22 +201,15 @@
      <Compile Include="Assets\ViveSR\Scripts\SRanipal_Eye_Framework.cs" />
      <Compile Include="Assets\ViveSR\Scripts\SRanipal_EyeShapeTableDrawer.cs" />
      <Compile Include="Assets\ViveSR\Scripts\SRWorks_Enums.cs" />
-     <None Include="Assets\EasyRoads3D\shaders\ER Dual Road Blend.shader" />
-     <None Include="Assets\Res\Cars\AE_CARS\SAMOCHODY\Car_24\readme.txt" />
-     <None Include="Assets\Res\Cars\AE_CARS\SAMOCHODY\Car_24\Skybox\readme.txt" />
      <None Include="Assets\20190604_1610.txt" />
-     <None Include="Assets\Quantum Theory\UCP\Materials\Shaders\Optimized\UCP_RoadLines Linear.shader" />
      <None Include="Assets\Enviro - Sky and Weather\Enviro Standard\Resources\Shaders\EnviroDownsampleDepth.shader" />
      <None Include="Assets\Enviro - Sky and Weather\Enviro Standard\Resources\Shaders\EnviroSkybox.shader" />
      <None Include="Assets\Enviro - Sky and Weather\Enviro Standard\Resources\Shaders\Effects\EnviroBilateralBlur.shader" />
      <None Include="Assets\Enviro - Sky and Weather\Core\Resources\Shaders\Effects\EnviroLightShafts.shader" />
      <None Include="Assets\Enviro - Sky and Weather\Core\Scripts\3rd Party Integrations\Lux Integration\Lux Integration.txt" />
      <None Include="Assets\Enviro - Sky and Weather\Enviro Standard\Resources\Shaders\Effects\EnviroFogRendering.shader" />
-     <None Include="Assets\EasyRoads3D\shaders\ER Road Decal Splat Blend.shader" />
-     <None Include="Assets\Res\Cars\AE_CARS\SAMOCHODY\Car_2\Skybox\readme.txt" />
      <None Include="Assets\Enviro - Sky and Weather\Core\Shaders\Particle\EnviroWeatherParticles.shader" />
      <None Include="Assets\Custom\Drill.shader" />
-     <None Include="Assets\Rokoko\MotionLibrary\Resources\Shaders\MotionLibraryFloor3.shader" />
      <None Include="Assets\20190604_1651.txt" />
      <None Include="Assets\Enviro - Sky and Weather\Enviro Lite\Resources\Shaders\EnviroLightMoonShader.shader" />
      <None Include="Assets\Enviro - Sky and Weather\Core\Scripts\3rd Party Integrations\UBER Integration\UBER Integration.txt" />
@@ -237,69 +217,40 @@
      <None Include="Assets\Enviro - Sky and Weather\Enviro Standard\Resources\Shaders\EnviroFlatCloudMap.shader" />
      <None Include="Assets\Enviro - Sky and Weather\Enviro Standard\Resources\Shaders\EnviroRaymarchClouds.shader" />
      <None Include="Assets\Simple Mesh Combine\version.txt" />
-     <None Include="Assets\Res\Cars\AE_CARS\SAMOCHODY\Car_58\Skybox\readme.txt" />
-     <None Include="Assets\EasyRoads3D\shaders\ER Road Decal.shader" />
      <None Include="Assets\Enviro - Sky and Weather\Enviro Standard\Resources\Shaders\EnviroCloudsCompose.shader" />
-     <None Include="Assets\Res\Cars\AE_CARS\SAMOCHODY\Car_53\readme.txt" />
      <None Include="Assets\EasyRoads3D Assets\Shaders\alpha_2sided.shader" />
      <None Include="Assets\Enviro - Sky and Weather\Core\Shaders\Transparent\EnviroTransparent.shader" />
-     <None Include="Assets\EasyRoads3D\shaders\Misc\ER Terrain Mesh Tesselation.shader" />
      <None Include="Assets\Ciconia Studio\Shaders\Double Sided Shaders\Double Sided Emissive Diffuse.shader" />
      <None Include="Assets\Enviro - Sky and Weather\Enviro Standard\Resources\Shaders\Core\EnviroNoiseCore.cginc" />
      <None Include="Assets\Enviro - Sky and Weather\Enviro Lite\Resources\Shaders\EnviroLightFogRendering.shader" />
-     <None Include="Assets\Quantum Theory\UCP\Materials\Shaders\Optimized\QT_RoadGamma.shader" />
-     <None Include="Assets\Res\Cars\AE_CARS\SAMOCHODY\Car_25\Skybox\readme.txt" />
      <None Include="Assets\ViveSR\Shaders\DartBoardShader.shader" />
      <None Include="Assets\Enviro - Sky and Weather\Core\Scripts\3rd Party Integrations\MegaSplat Integration\MegaSplat Integration.txt" />
      <None Include="Assets\Custom\NewSurfaceShader.shader" />
      <None Include="Assets\Street_set\Standard Assets\Skyboxes\_skybox info.txt" />
-     <None Include="Assets\EasyRoads3D\shaders\Misc\ER Road Splat 4 UV4.shader" />
      <None Include="Assets\EasyRoads3D Assets\Water\Shaders\WaterShader.shader" />
      <None Include="Assets\Enviro - Sky and Weather\Enviro Standard\Resources\Shaders\Core\EnviroVolumeLightCore.cginc" />
      <None Include="Assets\Enviro - Sky and Weather\Enviro Standard\Resources\Shaders\Core\EnviroVolumeCloudsCore.cginc" />
-     <None Include="Assets\EasyRoads3D\shaders\Misc\ER Custom Terrain.shader" />
      <None Include="Assets\Enviro - Sky and Weather\Core\Scripts\3rd Party Integrations\MicroSplat Integration\MicroSplat Integration.txt" />
-     <None Include="Assets\EasyRoads3D\shaders\ER Invisible.shader" />
      <None Include="Assets\Enviro - Sky and Weather\Core\Shaders\Particle\EnviroParticlesAdditive.shader" />
-     <None Include="Assets\EasyRoads3D\shaders\EasyRoads3D-Surface-Offset.shader" />
      <None Include="Assets\Custom\TerrainTransparency.shader" />
-     <None Include="Assets\Res\Cars\AE_CARS\SAMOCHODY\Car_48\readme.txt" />
      <None Include="Assets\Custom\MirrorReflection.shader" />
-     <None Include="Assets\Quantum Theory\UCP\Materials\Shaders\Optimized\Mobile\QT_ArchitectureMobile.shader" />
-     <None Include="Assets\Quantum Theory\UCP\Materials\Shaders\Optimized\Mobile\QT_RoadMobile.shader" />
      <None Include="Assets\data.txt" />
      <None Include="Assets\data1.txt" />
      <None Include="Assets\Enviro - Sky and Weather\Enviro Standard\Resources\Shaders\EnviroBlit.shader" />
      <None Include="Assets\Enviro - Sky and Weather\Enviro Standard\Resources\Shaders\Effects\EnviroDistanceBlur.shader" />
-     <None Include="Assets\EasyRoads3D\shaders\EasyRoads3D - Unity 2018 Standard.shader" />
      <None Include="Assets\data5.txt" />
-     <None Include="Assets\Quantum Theory\UCP\Materials\Shaders\Optimized\QT_RoadLinear.shader" />
      <None Include="Assets\EasyRoads3D scenes\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
-     <None Include="Assets\EasyRoads3D\shaders\ER Blend UV4.shader" />
      <None Include="Assets\20190604_1629.txt" />
-     <None Include="Assets\EasyRoads3D\shaders\Misc\ER Terrain Mesh Tesselation - one shape texture.shader" />
-     <None Include="Assets\EasyRoads3D\shaders\ER Single Road Blend.shader" />
      <None Include="Assets\Enviro - Sky and Weather\Enviro Standard\Resources\Shaders\EnviroShadowCookie.shader" />
      <None Include="Assets\Enviro - Sky and Weather\Core\Scripts\3rd Party Integrations\AQUAS Integration\AQUAS Integration.txt" />
      <None Include="Assets\Enviro - Sky and Weather\Core\Scripts\3rd Party Integrations\RTP Integration\RTP Integration.txt" />
-     <None Include="Assets\EasyRoads3D\shaders\EasyRoads3D - Unity 5 Standard.shader" />
      <None Include="Assets\Enviro - Sky and Weather\Enviro Standard\Resources\Shaders\Effects\EnviroFogRenderingSimple.shader" />
-     <None Include="Assets\EasyRoads3D\shaders\ER Dual Blend uv1.shader" />
      <None Include="Assets\Enviro - Sky and Weather\Enviro Lite\Resources\Shaders\EnviroLightMoonShaderCustom.shader" />
      <None Include="Assets\Enviro - Sky and Weather\Core\Shaders\Particle\EnviroParticlesLightning.shader" />
-     <None Include="Assets\EasyRoads3D\shaders\EasyRoads3D - Unity 5 StandardSpecular.shader" />
-     <None Include="Assets\EasyRoads3D\prefab meshes\_custom prefabs.txt" />
-     <None Include="Assets\Rokoko\MotionLibrary\Resources\Shaders\New AmplifyShader.shader" />
      <None Include="Assets\20190604_1613.txt" />
-     <None Include="Assets\Quantum Theory\UCP\Documentation.txt" />
      <None Include="Assets\Enviro - Sky and Weather\Core\Resources\Shaders\EnviroSkyboxSimple.shader" />
-     <None Include="Assets\Res\Cars\AE_CARS\SAMOCHODY\Car_48\Skybox\readme.txt" />
-     <None Include="Assets\EasyRoads3D\shaders\EasyRoads3D - Unity Standard 2018.shader" />
-     <None Include="Assets\Res\Cars\AE_CARS\SAMOCHODY\Car_53\Skybox\readme.txt" />
      <None Include="Assets\Enviro - Sky and Weather\Core\Resources\Shaders\EnviroParticleClouds.shader" />
-     <None Include="Assets\EasyRoads3D\shaders\ER Road Detail.shader" />
      <None Include="Assets\Enviro - Sky and Weather\Core\Scripts\3rd Party Integrations\FogVolume3 Integration\Fog Volume 3 Integration.txt" />
-     <None Include="Assets\EasyRoads3D\shaders\Misc\ER Race Track.shader" />
      <None Include="Assets\Enviro - Sky and Weather\Update Notes.txt" />
      <None Include="Assets\Enviro - Sky and Weather\Core\Shaders\Particle\EnviroLitParticles.shader" />
      <None Include="Assets\SuburbNeighborhoodHousePack\Readme.txt" />
@@ -307,77 +258,65 @@
      <None Include="Assets\Enviro - Sky and Weather\Enviro Standard\Resources\Shaders\Core\EnviroBlurCore.cginc" />
      <None Include="Assets\Enviro - Sky and Weather\Enviro Standard\Resources\Shaders\EnviroMoonShader.shader" />
      <None Include="Assets\Enviro - Sky and Weather\Enviro Standard\Resources\Shaders\EnviroWeatherMap.shader" />
-     <None Include="Assets\EasyRoads3D\shaders\ER Road Transparency.shader" />
      <None Include="Assets\Enviro - Sky and Weather\Core\Resources\Shaders\Effects\EnviroClearLightShafts.shader" />
-     <None Include="Assets\EasyRoads3D\prefab sources\_custom prefabs.txt" />
-     <None Include="Assets\EasyRoads3D\_Readme.txt" />
      <None Include="Assets\Enviro - Sky and Weather\Core\Shaders\Particle\EnviroParticlesAlphaBlend.shader" />
-     <None Include="Assets\EasyRoads3D\Release - Install Notes.txt" />
      <None Include="Assets\Enviro - Sky and Weather\Enviro Lite\Resources\Shaders\EnviroLightFogRenderingSimple.shader" />
-     <None Include="Assets\EasyRoads3D\Resources\custom prefabs\_custom prefabs.txt" />
-     <None Include="Assets\Quantum Theory\UCP\Materials\Shaders\Optimized\Mobile\QT_EmissiveMobile.shader" />
      <None Include="Assets\data4.txt" />
-     <None Include="Assets\Quantum Theory\UCP\Materials\Shaders\Optimized\QT_TrafficLight.shader" />
      <None Include="Assets\Custom\MirrorReflect.txt" />
      <None Include="Assets\Enviro - Sky and Weather\Core\Scripts\3rd Party Integrations\CTS Integration\CTS Integration Quickstart.txt" />
-     <None Include="Assets\EasyRoads3D\shaders\EasyRoads3D-Road-Edit-Mode.shader" />
      <None Include="Assets\Enviro - Sky and Weather\version.txt" />
-     <None Include="Assets\EasyRoads3D\shaders\Misc\ER Terrain Mask.shader" />
      <None Include="Assets\ViveSR\Shaders\Unlit-Alpha2Gray.shader" />
-     <None Include="Assets\Res\Cars\AE_CARS\SAMOCHODY\Car_58\readme.txt" />
-     <None Include="Assets\EasyRoads3D\shaders\alpha_2sided.shader" />
      <None Include="Assets\Enviro - Sky and Weather\Core\Resources\Shaders\Core\EnviroFogCore.cginc" />
-     <None Include="Assets\EasyRoads3D\lib\DelaunayER.txt" />
  <Reference Include="Unity.RenderPipelines.Core.Editor">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.Core.Runtime">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VisualEffectGraph.Runtime">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Unity.VisualEffectGraph.Runtime.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Unity.VisualEffectGraph.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.EditorCoroutines.Editor">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Postprocessing.Editor">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Mathematics">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Postprocessing.Runtime">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Autodesk.Fbx">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Autodesk.Fbx.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Autodesk.Fbx.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VisualEffectGraph.Editor">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Unity.VisualEffectGraph.Editor.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Unity.VisualEffectGraph.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.ProBuilder.AddOns.Editor">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.ShaderGraph.Editor">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Mathematics.Editor">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Formats.Fbx.Runtime">
- <HintPath>E:/Suburb2018/Library/ScriptAssemblies/Unity.Formats.Fbx.Runtime.dll</HintPath>
+ <HintPath>E:/Github/VRDS/Library/ScriptAssemblies/Unity.Formats.Fbx.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.8f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -579,21 +518,6 @@
  </Reference>
  <Reference Include="UnityEngine.SpatialTracking">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.8f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
- </Reference>
- <Reference Include="DelaunayER">
- <HintPath>E:/Suburb2018/Assets/EasyRoads3D/lib/DelaunayER.dll</HintPath>
- </Reference>
- <Reference Include="EasyRoads3Dv3">
- <HintPath>E:/Suburb2018/Assets/EasyRoads3D/lib/EasyRoads3Dv3.dll</HintPath>
- </Reference>
- <Reference Include="RSG.Promise">
- <HintPath>E:/Suburb2018/Assets/Rokoko/MotionLibrary/Plugins/RSG.Promise.dll</HintPath>
- </Reference>
- <Reference Include="Rollbar">
- <HintPath>E:/Suburb2018/Assets/Rokoko/MotionLibrary/Plugins/Rollbar/Rollbar.dll</HintPath>
- </Reference>
- <Reference Include="SharpRaven">
- <HintPath>E:/Suburb2018/Assets/Rokoko/MotionLibrary/Plugins/Sentry/SharpRaven.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.8f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -943,7 +867,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{523C2ABA-854C-E15A-81CB-19C40E1D9C39}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+      <Project>{E1C11F49-E6AE-0847-1B7C-64510A9C4CAB}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
