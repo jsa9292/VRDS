@@ -1,0 +1,394 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d921527f5b23d6d45ac71ec82f7f8cd4
+  m_SerializeEntries:
+  - m_GUID: 0583c36eacd1ffa42b044d979a4a963e
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Props/Prefabs_Props/Lamp_Garden_Small.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: 05d80881dcb52bd4cb87e0102dc24220
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Floors_Outside/Prefabs/Road_End.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: 063de9a113a72324dbe86788054120d2
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Floors_Outside/Prefabs/Floor_Grass_4x8.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: 1c2785842f8f30b458edc2a255e35653
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Props/Prefabs_Props/FenceDark_Frontyard_Tile_Left_2x.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: 1c2aad5906b714c43a5fdca0827b3bc3
+    m_Address: Assets/Street_set/Materials/light_cone_mat_static.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: 1d830df4653a6cd48a83314ad5e3ecf6
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Props/Prefabs_Props/Fence_Backyard_End.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: 229bb5e6e0d50054d9ecf5716021179c
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Props/Prefabs_Props/Fence_Backyard_18x.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: 2427ebe7bb70c44438e050861fa08437
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Floors_Outside/Materials/Road.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: 2c73b545329bf444b9dec6e3342fc7ed
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Props/Prefabs_Nature/Tree_Background.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: 2d748d121ccb02a40bf7aef77907af55
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Props/Prefabs_Props/Fence_Frontyard_End.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: 35187d9923da85749985229cc9ab3bce
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Floors_Outside/Prefabs/Road_Driveway.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: 38c6d3f3f6a11524fb0481a4435b160d
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Props/Materials/Lamps_On.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: 3f41a946b0c98374cb8dcd287d288adc
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Props/Prefabs_Props/FenceDark_Frontyard_Tile_Right_2x.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: 4ccceb80a5385e146be76b95983b4184
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Houses/Prefabs/Porch/Porch_Floor_3x2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: 4d04ce4023f6e624c85e0a116f9cb413
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Props/Prefabs_Props/Lamp_Wall_Box.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: 4f1ef69cf9b0a094f9f61b2f9e8b4952
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Floors_Outside/Prefabs/Road_8x.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: 51bca8d289482ad4898f7a75cb54d1a9
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Floors_Outside/Prefabs/Road_Driveway_Piece.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: 6262478a6961fc846ae097657cfdb2a7
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Props/Prefabs_Props/Lamp_Street_High.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: 6a70488ef5715a74b824ab30f5902e84
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Props/Prefabs_Props/Lamp_Garden_Pilar.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: 6c697c424ae8136439645badff6e4302
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Props/Prefabs_Nature/TreeLargeSplit_Static.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: 74e7bbf843b522740a5fe798aa73c21a
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Floors_Outside/Prefabs/Road_Walkway_Double.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: 7704900d8be83c642904651bba4aac2d
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Props/Prefabs_Props/PowerPole.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: 7ac82e8da2a264645af0646cf9186fc1
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Floors_Outside/Prefabs/Road_Corner_Out.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: 7eec39869b70b5d4cb731a7f4b32ac22
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Floors_Outside/Materials/Floor_Grass.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: 8348f062c2ef43b47a29a63abe4ecbd0
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Props/Prefabs_Nature/TreeLarge_Static.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: 900729aa34926f24ea553fcd5376cebb
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Props/Prefabs_Nature/Plant_Treebush.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: 96b9f5bbc25989740912cc06f4557fa1
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Floors_Outside/Prefabs/Floor_PoolGrass_4x8_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: 9bb1c0051705c8e459eea294af67266a
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Props/Prefabs_Nature/TreeSmall_Static.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: 9c3f7cb76fba088479e480488368492b
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Houses/Materials/Walls_Out/Glass.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: 9c543d1236bd73e4eb4ec1572a5cd404
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Floors_Outside/Prefabs/Road_Corner.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: 9e1b1d875bc102b4f8a7fdd5b24283dc
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Props/Prefabs_Props/Lamp_Wall_Original.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: a4c4382df93c2d143b87db120c97a6e1
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Props/Prefabs_Props/FenceDark_Frontyard_Tile_Left_1x.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: bb5850dc4d6e1a147bd929f0865d9892
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Props/Prefabs_Props/Fence_Backyard_Tile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: c3f0f316e72defa4b841538c2bd68366
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Floors_Outside/Materials/Floor_Sidewalk.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: cce84db8cadd75c4ba4e4da51a529ef9
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Props/Prefabs_Nature/Tree_Billboard.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: d68590f6b61e850419b8ba58bc388985
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Floors_Outside/Materials/Floor_ConcretePlates.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: d9a38597a83b12649ba5d582a011471d
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Props/Prefabs_Props/Lamp_Wirehanging_3x.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: d9f1824f4d39a0f428a96787be853dc6
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Props/Prefabs_Props/Fence_Frontyard_Tile_Left_1x.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: e41eb4c2bbac799409a630e42be876e1
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Floors_Outside/Prefabs/Road_4x.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: e9bf760c81486ce47a609615278ef6e6
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Props/Prefabs_Props/FenceDark_Frontyard_End.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  - m_GUID: fee215e204e94d947a9171b832db1d5a
+    m_Address: Assets/SuburbNeighborhoodHousePack/Models/Floors_Outside/Prefabs/Floor_Grass_8x8.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    <IsInResources>k__BackingField: 0
+    <IsInSceneList>k__BackingField: 0
+    <IsSubAsset>k__BackingField: 0
+    m_CheckedIsScene: 1
+    m_IsScene: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: e197e8c15eea42b4ab25512caf0b7f20, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 81a7cb4c58ac4fe40bd1180d8a34a315, type: 2}
+    - {fileID: 11400000, guid: b8238836dafd3e446bbcaa593edef279, type: 2}
