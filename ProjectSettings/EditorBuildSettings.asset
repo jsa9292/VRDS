@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Map.unity
+    guid: 195cc8ffa0b416f44a6922273ccbd9cd
+  - enabled: 0
+    path: Assets/Road_Cleaned.unity
+    guid: 818673a5dfba4ad43b2e995b361c9e93
+  - enabled: 0
+    path: Assets/CarTest.unity
+    guid: 2032bbaed3053504ba69d1b0553b9636
+  - enabled: 0
+    path: Assets/EasyRoads3D scenes/demo scene.unity
+    guid: b037c852bd9f36e4c9908036f267f0cb
+  - enabled: 0
+    path: Assets/Highway1.unity
+    guid: 6176da86bb9765747bde057d8cd8d7a2
+  - enabled: 0
+    path: Assets/Highway2.unity
+    guid: 5e8c8af60e7bcee438ddfe5038172232
+  - enabled: 1
+    path: Assets/CarTest1.unity
+    guid: b5f9183b9e02cfd4f9d4f223756b7908
+  - enabled: 0
+    path: Assets/CarTest2.unity
+    guid: 8cd77f4421c20ab4aa12368094885e99
+  - enabled: 0
+    path: Assets/Roads_Final2.unity
+    guid: a5e683da881587649989229a8770fd6c
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 5fa48128d1c85f144a447a146d3aa64a,
+      type: 2}
