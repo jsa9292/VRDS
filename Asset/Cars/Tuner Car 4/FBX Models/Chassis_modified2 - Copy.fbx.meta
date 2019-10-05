@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: 3aba869396284cb4dad035140cc15da8
+timeCreated: 1544225272
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bodyshell
+    100002: Bonnet
+    100004: Boot
+    100006: Brakelight L
+    100008: Brakelight R
+    100010: Bumper F
+    100012: Bumper R
+    100014: Camera
+    100016: Chassis
+    100018: //RootNode
+    100020: Door L
+    100022: Door R
+    100024: Engine
+    100026: Exhaust Stock
+    100028: Headlight L
+    100030: Headlight R
+    100032: Hub LF
+    100034: Hub LR
+    100036: Hub RF
+    100038: Hub RR
+    100040: Lamp
+    100042: Steering wheel
+    100044: Suspension LF
+    100046: Suspension LR
+    100048: Suspension RF
+    100050: Suspension RR
+    100052: Taillight L
+    100054: Taillight R
+    100056: Wheel LF
+    100058: Wheel LR
+    100060: Wheel RF
+    100062: Wheel RR
+    100064: Window LF
+    100066: Window LR
+    100068: Window RF
+    100070: Window RR
+    100072: Winscreen F
+    100074: Wndscreen R
+    400000: Bodyshell
+    400002: Bonnet
+    400004: Boot
+    400006: Brakelight L
+    400008: Brakelight R
+    400010: Bumper F
+    400012: Bumper R
+    400014: Camera
+    400016: Chassis
+    400018: //RootNode
+    400020: Door L
+    400022: Door R
+    400024: Engine
+    400026: Exhaust Stock
+    400028: Headlight L
+    400030: Headlight R
+    400032: Hub LF
+    400034: Hub LR
+    400036: Hub RF
+    400038: Hub RR
+    400040: Lamp
+    400042: Steering wheel
+    400044: Suspension LF
+    400046: Suspension LR
+    400048: Suspension RF
+    400050: Suspension RR
+    400052: Taillight L
+    400054: Taillight R
+    400056: Wheel LF
+    400058: Wheel LR
+    400060: Wheel RF
+    400062: Wheel RR
+    400064: Window LF
+    400066: Window LR
+    400068: Window RF
+    400070: Window RR
+    400072: Winscreen F
+    400074: Wndscreen R
+    2000000: Camera
+    2100000: Bodypaint
+    2100002: Gray
+    2100004: Mirror
+    2100006: Black 2
+    2100008: Detail 2
+    2100010: Detail 1
+    2100012: Red seam
+    2100014: Black 1
+    2100016: Engine
+    2100018: Reverse light
+    2100020: Taillight
+    2100022: Windows glass
+    2100024: Misc 1
+    2100026: Brakelights
+    2100028: Gray seam
+    2100030: Steering seam
+    2100032: Disc brake
+    2100034: Rim
+    2100036: Tyre
+    2100038: Caliper
+    2100040: License plate
+    2100042: Headlights
+    2100044: Indicator L
+    2100046: Indicator R
+    2100048: DRL
+    2100050: Air intake
+    2100052: Reflector
+    2100054: LCD
+    2100056: Lights 2
+    2100058: Brakelight M
+    2100060: Carpet
+    2100062: Gauges
+    2100064: HUD
+    2100066: Leather
+    2100068: Belt
+    2300000: Bodyshell
+    2300002: Bonnet
+    2300004: Boot
+    2300006: Brakelight L
+    2300008: Brakelight R
+    2300010: Bumper F
+    2300012: Bumper R
+    2300014: Chassis
+    2300016: Door L
+    2300018: Door R
+    2300020: Engine
+    2300022: Exhaust Stock
+    2300024: Headlight L
+    2300026: Headlight R
+    2300028: Hub LF
+    2300030: Hub LR
+    2300032: Hub RF
+    2300034: Hub RR
+    2300036: Steering wheel
+    2300038: Suspension LF
+    2300040: Suspension LR
+    2300042: Suspension RF
+    2300044: Suspension RR
+    2300046: Taillight L
+    2300048: Taillight R
+    2300050: Wheel LF
+    2300052: Wheel LR
+    2300054: Wheel RF
+    2300056: Wheel RR
+    2300058: Window LF
+    2300060: Window LR
+    2300062: Window RF
+    2300064: Window RR
+    2300066: Winscreen F
+    2300068: Wndscreen R
+    3300000: Bodyshell
+    3300002: Bonnet
+    3300004: Boot
+    3300006: Brakelight L
+    3300008: Brakelight R
+    3300010: Bumper F
+    3300012: Bumper R
+    3300014: Chassis
+    3300016: Door L
+    3300018: Door R
+    3300020: Engine
+    3300022: Exhaust Stock
+    3300024: Headlight L
+    3300026: Headlight R
+    3300028: Hub LF
+    3300030: Hub LR
+    3300032: Hub RF
+    3300034: Hub RR
+    3300036: Steering wheel
+    3300038: Suspension LF
+    3300040: Suspension LR
+    3300042: Suspension RF
+    3300044: Suspension RR
+    3300046: Taillight L
+    3300048: Taillight R
+    3300050: Wheel LF
+    3300052: Wheel LR
+    3300054: Wheel RF
+    3300056: Wheel RR
+    3300058: Window LF
+    3300060: Window LR
+    3300062: Window RF
+    3300064: Window RR
+    3300066: Winscreen F
+    3300068: Wndscreen R
+    4300000: Door R
+    4300002: Engine
+    4300004: Bumper R
+    4300006: Suspension RF
+    4300008: Taillight R
+    4300010: Winscreen F
+    4300012: Window RF
+    4300014: Headlight L
+    4300016: Door L
+    4300018: Window LR
+    4300020: Brakelight L
+    4300022: Headlight R
+    4300024: Steering wheel
+    4300026: Suspension LR
+    4300028: Suspension LF
+    4300030: Wndscreen R
+    4300032: Wheel LF
+    4300034: Bonnet
+    4300036: Exhaust Stock
+    4300038: Hub LF
+    4300040: Boot
+    4300042: Bumper F
+    4300044: Window LF
+    4300046: Hub RF
+    4300048: Brakelight R
+    4300050: Suspension RR
+    4300052: Hub RR
+    4300054: Taillight L
+    4300056: Bodyshell
+    4300058: Window RR
+    4300060: Hub LR
+    4300062: Chassis
+    10800000: Lamp
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
