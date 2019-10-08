@@ -7,7 +7,7 @@ public class FollowData : MonoBehaviour
 {
 	public Transform car;
 	public string path;
-	public string name;
+	public string fname;
 	private StreamReader sr;
     // Start is called before the first frame update
     void Start()
@@ -16,7 +16,7 @@ public class FollowData : MonoBehaviour
 		QualitySettings.vSyncCount = 1;
 		QualitySettings.maxQueuedFrames = 0;
 		Application.targetFrameRate = 90;
-		sr = new StreamReader(path+name);
+		sr = new StreamReader(path+ fname);
     }
 
     // Update is called once per frame
